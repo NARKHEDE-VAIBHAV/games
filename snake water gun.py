@@ -1,5 +1,5 @@
 import random
-for i in range(5):
+for i in range(5):  # you can change the value according to your need
  player = input("Snake(s) Water(w) Gun(g)")
  def game(player):
     num = ("s" , "w" , "g")
